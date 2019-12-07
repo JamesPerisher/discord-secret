@@ -1,6 +1,8 @@
 # discord-secret
 
-> discord-secret is a discord client that encrypts messages.
+> discord-secret is a discord client that encrypts messages.\
+<img src="https://imgur.com/foI1Bei.png" width=50%>
+
 
 
 ---
