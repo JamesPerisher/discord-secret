@@ -214,6 +214,7 @@ class main(Thread):
     def run(self):
         self.root = Tk()
         self.root.title("Discord secret - by PaulN07")
+        self.root.iconbitmap("icons/icon.ico")
         self.root.protocol("WM_DELETE_WINDOW", self._delete_window)
         self.root.bind("<Destroy>", self._destroy)
 

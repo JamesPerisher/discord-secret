@@ -85,6 +85,7 @@ class login(Thread):
     def run(self):
         self.r = Tk()
         self.r.title("Discord secret - Login")
+        self.r.iconbitmap("icons/icon.ico")
 
         self.msg = Label(self.r, text="")
         self.msg.pack(fill=X)
