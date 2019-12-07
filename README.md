@@ -3,8 +3,6 @@
 > discord-secret is a discord client that encrypts messages.\
 <img src="https://imgur.com/foI1Bei.png" width=50%>
 
-
-
 ---
 
 ## Getting Started
@@ -21,10 +19,6 @@ Download the .zip folder and extract it.
 3. Install python modules by running ```python -m pip install <module>```
 
 4. Run ```main.pyw```
-
-
-
-
 
 ---
 
